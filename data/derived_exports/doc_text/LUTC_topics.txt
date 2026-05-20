@@ -1,0 +1,165 @@
+
+
+
+
+
+List of Topics Covered in Land use-Transportation Courses
+
+(revised 3.14.2002)
+
+
+
+
+Overview
+
+
+        Introduction to LU and T issues
+
+
+        History
+
+
+        Rationales for Planning
+
+
+        Federal Policy
+
+
+
+Theory
+
+
+
+
+        Travel Behavior
+
+        Ea – Activities on Travel
+        Eb – Land Use on Travel
+
+        Transportation Economics
+
+
+        Urban Economics
+
+
+        Social Networks
+
+
+        Effect of Network on Travel and Land Use (Induced Demand)
+
+        Ia – Travel Demand
+        Ib – Land Use
+
+
+
+Models
+
+
+        Transportation Planning Models
+
+
+        Land Use Models
+
+
+        Performance Measurement
+
+
+        Transportation Impact Analysis
+
+
+
+
+
+
+Policy
+
+
+        Regulation of Land Use / Growth Management
+
+
+        Transportation Planning Process (State and Local) Infrastructure
+        Planning, Budgeting, and Finance
+
+
+        Density vs. Sprawl
+
+
+         Smart Growth
+
+
+        Accessibility and Jobs Housing Balance, Spatial Mismatch
+
+
+        Privatization
+
+
+        Parking
+
+
+        Transportation System Management
+
+
+        Travel Demand Management
+
+
+        Transportation Pricing
+
+
+
+
+
+
+
+
+
+Design
+
+
+        Site Design: Transit Oriented Development, Neo-traditional
+        Development
+
+
+        Network Design: Traffic calming/context sensitive design, Access
+        management
+
+
+        City Design: New Town Planning
+
+
+
+
+Application
+
+
+        Highways
+
+
+        Transit
+
+
+        Para-Transit
+
+
+        Non-motorized travel
+
+
+        International Issues
+
+
+        Energy and Environment
+
+
+        Equity
+
+
+        Case Studies
+
+
+
+II – ITS
+JJ – Telecom
+KK – Regional Governance, MPO
+MM – Freight
+NN – Car Sharing
+OO – Zoning
+XX - Other

@@ -1,6 +1,6 @@
 # License Status: Teaching Integrated Land Use-Transportation Planning: Topics, Readings, And Strategies
 
-Generated: 2026-05-20 13:10:44 AEST
+Generated: 2026-05-20 13:31:26 AEST
 
 Recorded license/access note from the verified audit row: Publisher/repository terms apply for paper; select a repository data license for the author-created derived data package before upload.
 

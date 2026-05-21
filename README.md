@@ -12,7 +12,7 @@
 
 ## Package Status
 
-- Pipeline recommendation: `READY-TO-UPLOAD/PUBLIC`.
+- Pipeline recommendation: `UPLOADED`.
 - Upload action: `derived_only_candidate`
 - Asset type: `derived_data`
 - Asset match status: `exact_match`
@@ -79,7 +79,7 @@ Closed for packaging: the paper-source LUTC syllabus/readings/topic coding workb
 
 Generated: 2026-05-21 20:04:48 AEST
 
-- Pipeline: `READY-TO-UPLOAD/PUBLIC`
+- Pipeline: `UPLOADED`
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
 - Paper reference copies are for local audit convenience and are not public-upload assets without rights review.
 - Final GitHub upload should use the manifest include statuses and the license-status note.

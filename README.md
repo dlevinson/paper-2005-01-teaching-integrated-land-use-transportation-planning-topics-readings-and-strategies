@@ -1,6 +1,10 @@
 <!-- Updated by stage_jper_lutc_2005_01_package.py -->
 # Teaching Integrated Land Use-Transportation Planning: Topics, Readings, And Strategies
 
+## Contribution
+
+This paper offers a structured approach to teaching the reciprocal relationships between land use and transportation. It identifies core topics, readings, and classroom strategies that help planning and engineering students integrate accessibility, travel behavior, urban form, and policy rather than treating land development and transport as separate subjects.
+
 ## Bibliographic Information
 
 - Row ID: `paper-2005-01`
